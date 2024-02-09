@@ -1,0 +1,250 @@
+{
+    "basics": {
+      "name": "Uriel Ramírez",
+      "label": "Junior Front End Developer con 1 año de experiencia en desarrollo web y estudiante de Ingeniería de Software",
+      "image": "data:image/png;base64,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",
+      "email": "contacto.urielramirez@gmail.com",
+      "phone": "+52 4428640810",
+      "url": "https://mysiste.com",
+      "summary": "Actualmente soy Estudiante de Programación en Bachillerato, y Ingeniera de Software. Experiencia como desarrollador Web. Vivo en México, Querétaro. He trabajado en proyectos tanto en el Frontend como en el Backend. Me gusta aprender nuevas tecnologías.",
+      "location": {
+        "address": "",
+        "postalCode": "08820",
+        "city": "Querétaro",
+        "countryCode": "MX",
+        "region": "México"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "legitghost",
+          "url": "https://www.linkedin.com/in/uriel-ram%C3%ADrez-467a6b278/"
+        },
+        {
+          "network": "GitHub",
+          "username": "legitghost",
+          "url": "https://github.com/LGhostMX/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "midudev",
+        "position": "Divulgador sobre Programación Web",
+        "url": "https://twitch.tv/midudev",
+        "startDate": "2021-01-01",
+        "endDate": null,
+        "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Adevinta",
+        "position": "Lead Frontend Architect",
+        "url": "https://twitch.tv/midudev",
+        "startDate": "2016-06-01",
+        "endDate": "2022-09-01",
+        "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Luxor",
+        "position": "Game Tester",
+        "startDate": "2022-09-15",
+        "endDate": "2022-09-31",
+        "summary": "Probé juegos de casino en línea y reporté errores de asignaciones de bonos/premios ganandos y errores de interfaz de usuario.",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+    ],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Universitat Oberta de Catalunya",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Ingeniero de Software",
+      "studyType": "Bachelor",
+      "startDate": "2003-01-01",
+      "endDate": "2009-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Intermediate",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Junior",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Bootstrap",
+        "level": "Intermediate",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "TailwindCSS",
+        "level": "Intermediate",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Learning",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "Learning",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "PHP",
+        "level": "Learning",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Intermediate",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Learning",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Intermediate"
+      }
+    ],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "Objetos perdidos",
+        "isActive": true,
+        "description": "Aplicación web para reportar objetos perdidos y encontrados en escuelas.",
+        "highlights": [
+          "En desarrollo",
+          "Escuela",
+          "CRUD"
+        ],
+        "url": "#"
+      },
+      {
+        "name": "CBTIS118 Carreras Técnicas",
+        "isActive": true,
+        "description": "Página web que muestra las carreras que se imparten en el CBTIS 118.",
+        "highlights": [
+          "Landing",
+          "Gratuito",
+          "Educación",
+          "En desarrollo"
+        ],
+        "url": "https://lghostmx.github.io/landing_cb118/"
+      },
+      {
+        "name": "GhostlyClicker",
+        "isActive": true,
+        "description": "AutoClicker enfocado en el videojuego Minecraft, desarrollado en C++.",
+        "highlights": [
+          "Cheat",
+          "Privado",
+          "Software",
+          "Escritorio"
+        ],
+        "url": "#"
+      }
+    ]
+  }
