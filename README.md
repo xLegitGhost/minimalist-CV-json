@@ -1,4 +1,4 @@
-# 🌟 Crud de biblioteca 🌟
+# 🌟 CV Editable en JSON 🌟
 
 ## 📖 Descripción
 
